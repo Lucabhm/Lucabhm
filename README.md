@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on ft_hangouts ( 42 Project )
+- 🌱 I’m currently learning Kotiln, Android Studio, XML and Jetpack Libraries
+
 ## 📊 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucabhm&layout=compact)
 
