@@ -3,7 +3,7 @@
 ## 📊 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucabhm&layout=compact)
 
-![Snake animation](https://github.com/Lucabhm/Lucabhm/blob/output/github-contribution-grid-snake.svg)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Lucabhm&theme=onedark)
 
 <!--
 **Lucabhm/Lucabhm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
