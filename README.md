@@ -7,7 +7,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucabhm&layout=compact&cache_seconds=1800)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Lucabhm&theme=onedark)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Lucabhm&theme=onedark&cache_seconds=1800)
 
 <!--
 **Lucabhm/Lucabhm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
